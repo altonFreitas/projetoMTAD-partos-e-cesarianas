@@ -1,4 +1,4 @@
-Região,Ano,Nº Total de Partos,Nº Cesarianas,Proporção_de_Cesarianas,Nível_de_Risco_Cesariana,Classificação_de_Nível_de_Risco
+Região,Ano,Nº Total de Partos,Nº Cesarianas,Proporcao_de_Cesarianas,Nivel_de_Risco_Cesariana,Classificacao_de_Nivel_de_Risco
 Região de Saúde LVT,2013,178835.0,52136.0,0.29,Baixo,1
 Região de Saúde LVT,2014,177713.0,47747.0,0.27,Baixo,1
 Região de Saúde LVT,2015,183294.0,48313.0,0.26,Baixo,1
@@ -12,11 +12,11 @@ Região de Saúde LVT,2022,159821.0,50196.0,0.31,Moderado,2
 Região de Saúde LVT,2023,162445.0,51081.0,0.31,Moderado,2
 Região de Saúde Norte,2013,144616.0,46387.0,0.32,Moderado,2
 Região de Saúde Norte,2014,139349.0,40110.0,0.29,Baixo,1
-Região de Saúde Norte,2015,144524.0,42695.0,0.3,Baixo,1
+Região de Saúde Norte,2015,144524.0,42695.0,0.3,Moderado,2
 Região de Saúde Norte,2016,150801.0,43909.0,0.29,Baixo,1
 Região de Saúde Norte,2017,148049.0,41629.0,0.28,Baixo,1
 Região de Saúde Norte,2018,147521.0,42554.0,0.29,Baixo,1
-Região de Saúde Norte,2019,149255.0,44741.0,0.3,Baixo,1
+Região de Saúde Norte,2019,149255.0,44741.0,0.3,Moderado,2
 Região de Saúde Norte,2020,147344.0,45079.0,0.31,Moderado,2
 Região de Saúde Norte,2021,132783.0,42010.0,0.32,Moderado,2
 Região de Saúde Norte,2022,140682.0,44888.0,0.32,Moderado,2
@@ -25,7 +25,7 @@ Região de Saúde do Alentejo,2013,17439.0,5589.0,0.32,Moderado,2
 Região de Saúde do Alentejo,2014,16460.0,4698.0,0.29,Baixo,1
 Região de Saúde do Alentejo,2015,17185.0,4521.0,0.26,Baixo,1
 Região de Saúde do Alentejo,2016,17701.0,4842.0,0.27,Baixo,1
-Região de Saúde do Alentejo,2017,17158.0,5091.0,0.3,Baixo,1
+Região de Saúde do Alentejo,2017,17158.0,5091.0,0.3,Moderado,2
 Região de Saúde do Alentejo,2018,16773.0,5241.0,0.31,Moderado,2
 Região de Saúde do Alentejo,2019,16333.0,5373.0,0.33,Moderado,2
 Região de Saúde do Alentejo,2020,16398.0,5176.0,0.32,Moderado,2
@@ -43,7 +43,7 @@ Região de Saúde do Algarve,2020,23518.0,6568.0,0.28,Baixo,1
 Região de Saúde do Algarve,2021,22236.0,6473.0,0.29,Baixo,1
 Região de Saúde do Algarve,2022,21585.0,6606.0,0.31,Moderado,2
 Região de Saúde do Algarve,2023,22990.0,7259.0,0.32,Moderado,2
-Região de Saúde do Centro,2013,75571.0,22407.0,0.3,Baixo,1
+Região de Saúde do Centro,2013,75571.0,22407.0,0.3,Moderado,2
 Região de Saúde do Centro,2014,72460.0,20375.0,0.28,Baixo,1
 Região de Saúde do Centro,2015,75850.0,20327.0,0.27,Baixo,1
 Região de Saúde do Centro,2016,77748.0,21013.0,0.27,Baixo,1
@@ -52,5 +52,5 @@ Região de Saúde do Centro,2018,76040.0,21540.0,0.28,Baixo,1
 Região de Saúde do Centro,2019,74369.0,20567.0,0.28,Baixo,1
 Região de Saúde do Centro,2020,74294.0,20415.0,0.27,Baixo,1
 Região de Saúde do Centro,2021,67024.0,19357.0,0.29,Baixo,1
-Região de Saúde do Centro,2022,70748.0,21422.0,0.3,Baixo,1
-Região de Saúde do Centro,2023,76322.0,22744.0,0.3,Baixo,1
+Região de Saúde do Centro,2022,70748.0,21422.0,0.3,Moderado,2
+Região de Saúde do Centro,2023,76322.0,22744.0,0.3,Moderado,2
